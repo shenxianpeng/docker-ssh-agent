@@ -1,0 +1,19 @@
+Jenkinsfile
+  s_23cfa8ccb05701::t_4ef2bf0d838aa5 49,65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d29faead7341927271f90fbd33733e79f219466d",
+  "prompts": {},
+  "sessions": {
+    "s_23cfa8ccb05701": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f8579651-1188-42bf-96f8-44e19f0cc32c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Xianpeng Shen <xianpeng.shen@gmail.com>"
+    }
+  }
+}
